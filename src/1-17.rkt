@@ -6,5 +6,4 @@
       result
       (iter (- b 1) (+ a result))))
 
-  (iter b 0)
-)
+  (iter b 0))
